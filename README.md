@@ -3,6 +3,7 @@
 - [Borg: the Next Generation](https://dl.acm.org/doi/pdf/10.1145/3342195.3387517) (EuroSys'20)
 - [DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services](https://arxiv.org/abs/1910.05339) (ICSE'20)
 - [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/pdf/10.1145/2741948.2741964) (EuroSys'15)
+- [Openstack Swift: Using, Administering, and Developing for Swift Object Storage](https://oiipdf.com/openstack-swift) (Joe Arnold'14)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (NSDI'12)
 - [Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf) (HotCloud10)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) (OSDI'04)
