@@ -2,6 +2,7 @@
 
 - [Borg: the Next Generation](https://dl.acm.org/doi/pdf/10.1145/3342195.3387517) (EuroSys'20)
 - [DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services](https://arxiv.org/abs/1910.05339) (ICSE'20)
+- [Crystal: Software-Defined Storage for Multi-tenant Object Stores](https://www.usenix.org/system/files/conference/fast17/fast17-gracia-tinedo.pdf) (FAST'17)
 - [Large-scale cluster management at Google with Borg](https://dl.acm.org/doi/pdf/10.1145/2741948.2741964) (EuroSys'15)
 - [Openstack Swift: Using, Administering, and Developing for Swift Object Storage](https://oiipdf.com/openstack-swift) (Joe Arnold'14)
 - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) (NSDI'12)
